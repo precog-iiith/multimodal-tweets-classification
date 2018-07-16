@@ -12,6 +12,8 @@ Contact guptadivam@gmail.com for the dataset.
 
 ## Requirements
 
+Use Anaconda with Python 2.7.
+
 Dependencies can be installed using requirements.txt file by running:
 
 ```
