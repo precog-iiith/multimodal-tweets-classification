@@ -1,0 +1,3 @@
+keras==1.1.0
+theono==0.9.0dev1.dev-69338f338087d36ad4464900e387a199c183d580
+opencv-python
