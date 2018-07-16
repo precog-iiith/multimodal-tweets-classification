@@ -1,6 +1,6 @@
 ## Multimodal Detection of Sensitive Content
 
-This repository contains the implementation of our paper "Empowering First Responders through Automated Multimodal Content Moderation" (accepted at IEEE ICCC 2018). The paper is available here: http://precog.iiitd.edu.in/pubs/empowering-first-responders.pdf
+This repository contains the implementation of our paper "Empowering First Responders through Automated Multimodal Content Moderation" (accepted at IEEE ICCC 2018). The paper is available [here](http://precog.iiitd.edu.in/pubs/empowering-first-responders.pdf)
 
 ## Abstract
 
